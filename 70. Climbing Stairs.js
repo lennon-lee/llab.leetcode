@@ -1,5 +1,6 @@
 /*
 70. Climbing Stairs.js
+https://leetcode.com/problems/climbing-stairs/
 
 Share
 You are climbing a staircase. It takes n steps to reach the top.
